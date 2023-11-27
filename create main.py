@@ -1,1 +1,2 @@
-main new file 
+for a in range (10)
+print (a)
